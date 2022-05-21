@@ -209,7 +209,7 @@ namespace project_scanner
 
             try
             {
-                file = new StreamReader(@"D:\FCAIH\level 3\Semester 2\compiler\Scanner\scanner.TXT");
+                file = new StreamReader(@"A:\A\project_scanner\Compiler-Project\project_scanner\project_scanner\code.txt");
                 for (int y = 1; (line = file.ReadLine()) != null; y++)
                 {
                     for (int i = 0; i < line.Length; i++)
@@ -375,6 +375,7 @@ namespace project_scanner
                     file.Close();
             }
             Console.WriteLine("\nTotal NO of errors: "+error+"\n");
+            Console.ReadLine();
         }
 
     }

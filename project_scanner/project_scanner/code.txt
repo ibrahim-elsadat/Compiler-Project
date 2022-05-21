@@ -1,0 +1,4 @@
+Worthless decrease(){
+int 3num=5;
+Loopwhen(counter<num){
+reg3=reg3-1; } }
