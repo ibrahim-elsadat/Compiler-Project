@@ -1,0 +1,7 @@
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\bin\Debug\project_scanner.exe.config
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\bin\Debug\project_scanner.exe
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\bin\Debug\project_scanner.pdb
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\obj\Debug\project_scanner.csprojAssemblyReference.cache
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\obj\Debug\project_scanner.csproj.CoreCompileInputs.cache
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\obj\Debug\project_scanner.exe
+D:\FCAIH\level 3\Semester 2\compiler\project_scanner\project_scanner\obj\Debug\project_scanner.pdb
